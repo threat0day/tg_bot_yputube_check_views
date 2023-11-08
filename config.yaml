@@ -1,0 +1,7 @@
+secret:
+  token_tg: 'YOU_TOKEN'
+  token_youtube: "YOU_TOKEN"
+  chat_id: 123
+video_id: "ID_VIDEO"
+check_timeout: 100
+delta_views: 1000

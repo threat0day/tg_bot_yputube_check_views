@@ -1,0 +1,8 @@
+aiogram==2.25.1
+google-api-python-client==2.106.0
+celery==5.3.4
+asyncio==3.4.3
+python-telegram-bot==20.6
+emoji
+pyyaml
+easydict
