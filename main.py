@@ -52,7 +52,7 @@ class CounterViews:
 
 
 @dp.message_handler(commands=['start'])
-async def send_welcome(message: types.Message):
+async def send_welcome(message: types.Message) -> None:
     await message.reply("Welcome")
 
 
