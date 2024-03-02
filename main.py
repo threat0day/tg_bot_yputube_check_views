@@ -26,6 +26,8 @@ started_at = datetime.now() + timedelta(seconds=30)
 last_value_count_views = 0
 
 
+
+
 class CounterViews:
 
     last_value_count_views: int = 0
